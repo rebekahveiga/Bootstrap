@@ -1,0 +1,46 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: #bb0303;
+}
+
+
+.Filme{
+    background-color: rgb(0, 0, 3);
+    color:#bb0303;
+
+}
+
+.margin{
+  
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.Infos{
+    padding-bottom: 50px;
+    padding-top: 20px;
+    background-color: #46545a;
+    color: white;
+}
+
+.bg-footer{
+    padding-top: 20px;
+    background-color:#bb0303;
+    color: white;
+}
+
+.Bastidores{
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+
+.space{
+    padding-top: 20px;
+}
+
+.texto{
+    text-align: justify;
+}
